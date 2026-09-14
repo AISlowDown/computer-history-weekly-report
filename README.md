@@ -1,5 +1,12 @@
 # Weekly Reporter · 周报克星
 
+## 样本预览
+
+以下为虚构演示，姓名、项目及工时均为示例数据。
+
+![Weekly Reporter 虚构周报样本](docs/images/weekly-reporter-demo.png)
+
+
 名称：`computer-history-weekly-report`
 
 ## 功能
