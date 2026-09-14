@@ -17,7 +17,7 @@
 
 下载 [技能安装包](dist/computer-history-weekly-report-public.zip)，将解压后的 `computer-history-weekly-report/` 文件夹放入当前环境的技能目录，或按平台提供的技能安装流程操作。
 
-压缩包仅含 `SKILL.md` 和 `agents/openai.yaml`。不包含真实周报、历史活动、姓名、账号、本地路径、未公开稿件、截图或估算台账。
+压缩包包含 `SKILL.md`、`agents/openai.yaml` 和图表规范 `references/html-charts.md`。不包含真实周报、历史活动、姓名、账号、本地路径、未公开稿件、截图或估算台账。
 
 ## 调用示例
 
@@ -25,3 +25,7 @@
 
 > 把已选项目做成 HTML 周报，附每日活动和大概投入时间，并按累计用时排序。
 
+
+## 每日投入图表
+
+支持按小时绘制每日堆积柱，柱内显示项目占当天的比例，图例显示项目占全周的比例。各天沿用统一项目顺序，颜色固定，提供红—橙—黄—绿—蓝—紫配色预设。仅调整柱图颜色时保持周报其他区域不变。详见 [图表规范](references/html-charts.md)。
