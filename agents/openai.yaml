@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术周报与每日科研活动"
+  short_description: "按项目归并研究、计划、PPT 和杂务，先勾选活动再生成学术周报或甘特图"
+  default_prompt: "用 $computer-history-weekly-report 整理本周学术周报，先按项目列出研究、计划、PPT 和杂务的候选清单，供我勾选后再成稿。"
