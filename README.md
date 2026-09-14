@@ -1,4 +1,4 @@
-# 周报克星
+# Weekly Reporter · 周报克星
 
 名称：`computer-history-weekly-report`
 
