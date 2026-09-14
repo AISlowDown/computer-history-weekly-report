@@ -1,4 +1,4 @@
-# 学术周报与每日科研活动 · 公开技能包
+# 周报克星
 
 名称：`computer-history-weekly-report`
 
